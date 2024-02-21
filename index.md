@@ -1,5 +1,6 @@
 ``` python
 print("Hello, world!")
+var h = food
 ```
 # Header text
 ###### super tiny text
