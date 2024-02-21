@@ -1,3 +1,6 @@
+``` python
+print("Hello, world!")
+```
 # Header text
 ###### super tiny text
 ### Less tiny text
